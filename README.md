@@ -1,0 +1,2 @@
+# betterend
+discord slashcommand bot
